@@ -149,7 +149,7 @@ body {
   font-family: cascadia mono , sans-serif;
   margin: 0;
   padding: 0;
-  background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.blog.typingspeedtestonline.com%2Fwp-content%2Fuploads%2F2020%2F07%2Fwordsworthheader.jpg&f=1&nofb=1&ipt=343b6a3f459fc81562cadeddbbae1985f0f446b7055f733ddb558aa2074b7995&ipo=images'); /* Replace 'background-image.jpg' with the path to your image file */
+  background-image: url('Typing-Speed-Game/bgimg/typeimg.jpg'); 
   background-size: cover;
   background-position: center;
 }
